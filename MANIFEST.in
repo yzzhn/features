@@ -1,0 +1,2 @@
+include generate_features/models/dga/v02/v02.ckpt
+include generate_features/features/zeek_logs/subnets.txt

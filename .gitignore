@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# logs
+log/
+*.log
+*.err
+*.out
+
+# tmp test
+generate_features/tests
+
+# tmp scripts
+#scripts/
+#*.sh
+
+# backup_database 
+bk*.db
+*.csv
+
+# tmp data
+*.parquet
+*.csv
+
